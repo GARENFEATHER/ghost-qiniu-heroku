@@ -10,7 +10,7 @@
   "private": true,
   "version": "0.0.6",
   "dependencies": {
-    "ghost": "",
+    "ghost": "1.21.4",
     "ghost-qn-store": "legendtang/qn-store",
     "casper": "TryGhost/Casper",
     "ncp": ""
